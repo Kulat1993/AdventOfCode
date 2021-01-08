@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>advent-of-code</groupId>
-    <artifactId>Day1</artifactId>
+    <artifactId>Day2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
